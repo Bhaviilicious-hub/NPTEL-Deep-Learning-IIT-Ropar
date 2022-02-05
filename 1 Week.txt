@@ -1,6 +1,44 @@
 Week 1 : Assignment 1
 
 
+1)Given the follwing representation of an MP neuron, What is the role of function ‘g’?
+Answe: aggregate inputs
+ 
+
+2)Pick out the drawback of RNNs.
+Answer: exploding and vanishing gradients
+
+3) What is the thresholding parameter for the MP neuron for the given boolean function,? (x1ANDx2)AND(x3AND!x4)
+Answer: 3
+
+4) Which of the following Statements is correct?
+Statement I: Perceptron separates the input space into two sections
+Statement II: Only a linearly separable function can be implemented using a single perceptron
+Answer:  Both I and II are True
+
+
+5) Identify the statements that are True for McCulloch Pitts (MP) Neuron Model and Perceptron Model.
+i. An excitatory input can override other inputs in MP neuron model
+ii. Perceptron model can take weights with respect to inputs provided
+iii. If an inhibitory input is ON in MP neuron model, then the neuron will not fire irrespective of other inputs
+iv. Perceptron model process real inputs as well
+Answer: i, ii, iii, iv
+
+6)Consider an OR function MP neuron with three inputs x1,x2,x3. The number of input points can be 8. And the MP neuron tries to learn a decision boundary that is a plane. How many points out of this 8 input points lie below the plane?
+ Answer:  1
+ 
+7) Pick out the one which best describes the decision boundary that a Mc Culloch Pitt Neuron model learns when the number of inputs is more than three.
+Answer: 
+
+8)In the Perceptron learning algorithm, the positive points are those that are labelled one and negative points are those that are labelled 0. Now, what is the angle that any positive point(vector ) makes with the ‘w’?
+Answer: (less than) < 90◦
+ 
+9) Which of the following is True for a Perceptron Learning Algorithm?
+ Answer: updating weights takes a finite number of iterations to converge
+ 
+10) For which of the following gates, the threshold value is 3 for three inputs?
+Answer:  AND
+
 
 
 
